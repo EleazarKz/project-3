@@ -7,8 +7,8 @@ let messages = [
   'Me cae una notificacion en el cel cada vez que presionas aqui',
   'segura?',
   'deja de presionar aca o me voy a resentir',
-  'Pensalo muy bien',
-  'Pensalo',
+  'Piensalo muy bien',
+  'Piensalo',
   'Mira el otro botón'
 ]
 
